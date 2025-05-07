@@ -1,2 +1,2 @@
 # Calculator
-Basic Project 3
+Simple Calculator using HTML, CSS and Javascript
